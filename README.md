@@ -1,9 +1,11 @@
 # Portfolio-2
 
 
-
-
 ## Description
+In this Homework I updated my portfolio to include project 2 and 2 additional homework assignments.
+
+
+
 
 ## Deployed Website
 https://jakedeines.github.io/Portfolio-2/.
